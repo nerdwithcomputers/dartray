@@ -20,8 +20,8 @@ void main(){
     clearBackground(Color.black);
     drawText(
       'Congrats! You created your first window!',
-      190,
-      200,
+      width~/2,
+      height~/2,
       20,
       Color.lightGray,
     );
